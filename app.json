@@ -13,23 +13,23 @@
   ],
   "env": {
     "LINECORP_PLATFORM_CHANNEL_CHANNELID": {
-      "description": "LINE Login - Channel ID",
+      "description": "1622046414",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CHANNELSECRET": {
-      "description": "LINE Login - Channel secret",
+      "description": "48ae8b07eaf134b55ddc1e482247e288",
       "required": true
     },
     "LINECORP_PLATFORM_CHATBOT_CHANNELTOKEN": {
-      "description": "LINE Chatbot - token",
+      "description": "3pjYn+6gs3G1dISd6w8Xb8vCOIWiz5ojncvzdVB1jV24nSASa/walrkRhrFMU4kqaRBTZQOZ7S3SplRGUMVfk7sdkYHb1bfgpRuGSoRciWKbGNqhnKDddNPD4pn2ARd8rFG92itQIY+mqjGuLOGmO1GUYhWQfeY8sLGRXgo3xvw=",
       "required": true
     },
     "LINECORP_PLATFORM_CHATBOT_CHANNELSECRET": {
-      "description": "LINE Chatbot - secret",
+      "description": "1b8749dd96ed6430bd43c094692ecd8d",
       "required": true
     },
     "LINECORP_PLATFORM_SERVERURL": {
-      "description": "Server URL",
+      "description": "https://login-clkuo.herokuapp.com/",
       "required": true
     }
   }
