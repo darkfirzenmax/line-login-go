@@ -29,7 +29,7 @@
       "required": true
     },
     "LINECORP_PLATFORM_SERVERURL": {
-      "description": "https://login-clkuo.herokuapp.com/",
+      "description": "https://pacific-oasis-56040.herokuapp.com/",
       "required": true
     }
   }
